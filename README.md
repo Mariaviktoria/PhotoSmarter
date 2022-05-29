@@ -3,10 +3,4 @@ An application to read photos in a directory to remove duplicates, sort and o
 
 
 **Requirements:**
-Python 3.8 or above 
-PIL 
-imagehash
-shutil
-os
-cv2
-pandas
+Python 3.8 or above, PIL, imagehash, shutil, os, cv2, pandas
